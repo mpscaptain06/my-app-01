@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN echo -n "Hello, my name is xxxx !!" > /usr/share/nginx/html/index.html
+RUN echo -n "Hello, my name is Moss !!" > /usr/share/nginx/html/index.html
